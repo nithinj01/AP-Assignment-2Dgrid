@@ -70,6 +70,7 @@ def isValid(x, y, grid, visited):
 
 # Driver code
 if __name__ == '__main__':
+    # 0 represents cell you cannot travel other symbols allows movement
     grid = [['0', '#', '0', '#'],
             ['#', '0', '#', 'B'],
             ['0', '#', '#', '#'],
