@@ -6,5 +6,5 @@ Think about test cases and write unit tests to verify your good works properly.
 
 A represents ‘source’ 
 B represents ‘destination’ 
-# represents cell you can travel 
-0 represents cell you can not travel ******
+-# represents cell you can travel 
+-0 represents cell you can not travel ******
